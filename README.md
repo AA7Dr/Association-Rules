@@ -1,7 +1,7 @@
-# Description
+# *Association Rule Mining in Course Catalog Data*
 
 
-## *Association Rule Mining in Course Catalog Data*
+## Description
 
 ## Data found inside CSV file 
 
